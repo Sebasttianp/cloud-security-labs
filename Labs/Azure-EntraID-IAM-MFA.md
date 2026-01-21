@@ -86,17 +86,8 @@ The focus is on **user management, MFA enforcement, and least-privilege validati
 
 ---
 
-## Resume / Interview Summary
+## Summary
 Implemented identity and access management in Microsoft Entra ID by creating administrative and standard users, enforcing multi-factor authentication, auditing group-based privileges, and validating least-privilege access. Adapted lab execution to a school-managed tenant with restricted role assignment capabilities, reflecting real-world enterprise constraints.
-
----
-
-## Screenshots (Optional)
-Add screenshots here if desired:
-- User creation
-- MFA registration prompt
-- lab-user restricted access view
-- Group membership removal
 
 ---
 
